@@ -31,13 +31,14 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://cosmicwatcher.github.io/frontendmentor-Interactive-comments-section/](https://cosmicwatcher.github.io/frontendmentor-Interactive-comments-section/)
 
 ## My process
 
 ### Built with
 
 - HTML5
+- [Vite](https://vitejs.dev/) - Local development server
 - [React](https://react.dev/) - JS library
 - [tailwindcss](https://tailwindcss.com/) - For styles
 
